@@ -6,5 +6,4 @@ target_compile_features(test_utils PRIVATE cxx_std_17)
 
 target_link_libraries(test_utils PRIVATE utils GTest::gtest_main)
 
-add_test(NAME test_utils_tests COMMAND test_utils)
 gtest_discover_tests(test_utils)
