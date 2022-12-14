@@ -2,7 +2,6 @@
 
 #### *A template for modern C++ projects.*
 
-<br />
 
 ## Features
 
